@@ -27,8 +27,8 @@
 
 ## Corrección y próximo ejercicio
 
-> #### Lunes 5 de Febrero de 2024 a las 20:00 (hora España) desde **[Twitch](https://twitch.tv/mouredev)**
-> #### Consulta el **[horario](https://discord.gg/YEU3gzfe?event=1201413529924796416)** por país y crea un **[recordatorio](https://discord.gg/YEU3gzfe?event=1201413529924796416)**
+> #### Lunes 15 de Abril de 2024 a las 20:00 (hora España) desde **[Twitch](https://twitch.tv/mouredev)**
+> #### Consulta el **[horario](https://discord.gg/7Sjt3Wga?event=1224456967691440169)** por país y crea un **[recordatorio](https://discord.gg/7Sjt3Wga?event=1224456967691440169)**
 
 ## Roadmap
 
@@ -46,7 +46,10 @@
 |09|[HERENCIA Y POLIMORFISMO](./Roadmap/09%20-%20HERENCIA/ejercicio.md)|[📝](./Roadmap/09%20-%20HERENCIA/python/mouredev.py)|[▶️](https://youtu.be/PVBs5PWjedA)|[👥](./Roadmap/09%20-%20HERENCIA/)
 |10|[EXCEPCIONES](./Roadmap/10%20-%20EXCEPCIONES/ejercicio.md)|[📝](./Roadmap/10%20-%20EXCEPCIONES/python/mouredev.py)|[▶️](https://youtu.be/mfOzfj-BrQo)|[👥](./Roadmap/10%20-%20EXCEPCIONES/)
 |11|[MANEJO DE FICHEROS](./Roadmap/11%20-%20MANEJO%20DE%20FICHEROS/ejercicio.md)|[📝](./Roadmap/11%20-%20MANEJO%20DE%20FICHEROS/python/mouredev.py)|[▶️](https://youtu.be/Bsiay2nax4Y)|[👥](./Roadmap/11%20-%20MANEJO%20DE%20FICHEROS/)
-|12|[JSON Y XML](./Roadmap/12%20-%20JSON%20Y%20XML/ejercicio.md)|[🗓️ 25/03/24](https://discord.gg/NtSqCkZK?event=1216862528257130496)||[👥](./Roadmap/12%20-%20JSON%20Y%20XML/)
+|12|[JSON Y XML](./Roadmap/12%20-%20JSON%20Y%20XML/ejercicio.md)|[📝](./Roadmap/12%20-%20JSON%20Y%20XML/python/mouredev.py)|[▶️](https://youtu.be/OwStihBItEg)|[👥](./Roadmap/12%20-%20JSON%20Y%20XML/)
+|13|[PRUEBAS UNITARIAS](./Roadmap/13%20-%20PRUEBAS%20UNITARIAS/ejercicio.md)|[📝](./Roadmap/13%20-%20PRUEBAS%20UNITARIAS/python/mouredev.py)|[▶️](https://youtu.be/3WFQ2grp0h0)|[👥](./Roadmap/13%20-%20PRUEBAS%20UNITARIAS/)
+|14|[FECHAS](./Roadmap/14%20-%20FECHAS/ejercicio.md)|[📝](./Roadmap/14%20-%20FECHAS/python/mouredev.py)|[▶️](https://youtu.be/EQIAhF7NNMI)|[👥](./Roadmap/14%20-%20FECHAS/)
+|15|[ASINCRONÍA](./Roadmap/15%20-%20ASINCRONÍA/ejercicio.md)|[🗓️ 15/04/24](https://discord.gg/7Sjt3Wga?event=1224456967691440169)||[👥](./Roadmap/15%20-%20ASINCRONÍA/)
 
 ## Instrucciones
 
